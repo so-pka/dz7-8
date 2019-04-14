@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.lockh.reactchat",
+               "sha256_cert_fingerprints": ["88:06:C3:67:4E:BE:6A:C7:D4:05:28:68:62:59:57:95:C5:A6:A2:23:7A:2E:F8:76:CE:30:ED:C4:5F:09:0E:1A"] }
+}]
