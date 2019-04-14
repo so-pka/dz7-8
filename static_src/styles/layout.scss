@@ -1,0 +1,22 @@
+.layout {
+  width: 50%;
+  margin: auto;
+  display: flex;
+}
+
+.header {
+  width: 50%;
+  height: 40px;
+  background-color: lightblue;
+  margin: auto;
+}
+
+.layout-left-side {
+  width: 30%;
+ background-color: darkgray;
+ // background-color: green;
+}
+
+.layout-right-side {
+  width: 70%;
+}
